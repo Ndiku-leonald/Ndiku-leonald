@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="439" viewBox="0 0 490 439" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<style>
+    .l { opacity:0; animation: in .5s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes in { from { opacity:0; transform: translateX(-10px); } to { opacity:1; transform:none; } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }</style>
+<rect x="0.5" y="0.5" width="489" height="438" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 30 H489" stroke="#21262d"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="15" r="5" fill="#27c93f"/>
+<text x="245.0" y="19" fill="#8b949e" font-size="11" text-anchor="middle">panda@ucu: ~ — neofetch</text>
+<g class="l" style="animation-delay:0.35s"><text x="22" y="62"><tspan fill="#39d353" font-weight="bold">panda@github</tspan></text></g>
+<g class="l" style="animation-delay:0.47s"><text x="22" y="83"><tspan fill="#30363d">────────────</tspan></text></g>
+<g class="l" style="animation-delay:0.59s"><text x="22" y="104"><tspan fill="#58a6ff" font-weight="bold">Name</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">Ndiku Leonald (“Panda”)</tspan></text></g>
+<g class="l" style="animation-delay:0.71s"><text x="22" y="125"><tspan fill="#58a6ff" font-weight="bold">Role</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">Backend Developer</tspan></text></g>
+<g class="l" style="animation-delay:0.83s"><text x="22" y="146"><tspan fill="#58a6ff" font-weight="bold">Study</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">BSc IT · Uganda Christian University</tspan></text></g>
+<g class="l" style="animation-delay:0.95s"><text x="22" y="167"><tspan fill="#58a6ff" font-weight="bold">Host</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">Mukono, Uganda · UTC+3</tspan></text></g>
+<g class="l" style="animation-delay:1.07s"><text x="22" y="197.45"><tspan fill="#58a6ff" font-weight="bold">Now</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">BorrowMate — P2P borrowing for students</tspan></text></g>
+<g class="l" style="animation-delay:1.19s"><text x="22" y="218.45"><tspan fill="#58a6ff" font-weight="bold">Prev</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">CraftHub — skills + market for mothers</tspan></text></g>
+<g class="l" style="animation-delay:1.31s"><text x="22" y="239.45"><tspan fill="#58a6ff" font-weight="bold">Also</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">Unistel hostels · UCU Innovators Hub</tspan></text></g>
+<g class="l" style="animation-delay:1.43s"><text x="22" y="269.9"><tspan fill="#58a6ff" font-weight="bold">Stack</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">Python · Node.js/Express · TypeScript</tspan></text></g>
+<g class="l" style="animation-delay:1.55s"><text x="22" y="290.9"><tspan fill="#58a6ff" font-weight="bold">Web</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">React · REST APIs · JWT auth</tspan></text></g>
+<g class="l" style="animation-delay:1.67s"><text x="22" y="311.9"><tspan fill="#58a6ff" font-weight="bold">Data</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">PostgreSQL · Docker · Git</tspan></text></g>
+<g class="l" style="animation-delay:1.79s"><text x="22" y="332.9"><tspan fill="#58a6ff" font-weight="bold">Extra</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">WordPress · MQL5 trading bots</tspan></text></g>
+<g class="l" style="animation-delay:1.91s"><text x="22" y="363.34999999999997"><tspan fill="#58a6ff" font-weight="bold">Focus</tspan><tspan fill="#8b949e">:</tspan><tspan x="86" fill="#c9d1d9">tech for community-level problems</tspan></text></g>
+<g class="l" style="animation-delay:2.03s"><rect x="22" y="379.74999999999994" width="24" height="16" rx="3" fill="#484f58"/><rect x="48" y="379.74999999999994" width="24" height="16" rx="3" fill="#ff7b72"/><rect x="74" y="379.74999999999994" width="24" height="16" rx="3" fill="#3fb950"/><rect x="100" y="379.74999999999994" width="24" height="16" rx="3" fill="#d29922"/><rect x="126" y="379.74999999999994" width="24" height="16" rx="3" fill="#58a6ff"/><rect x="152" y="379.74999999999994" width="24" height="16" rx="3" fill="#bc8cff"/><rect x="178" y="379.74999999999994" width="24" height="16" rx="3" fill="#39c5cf"/><rect x="204" y="379.74999999999994" width="24" height="16" rx="3" fill="#c9d1d9"/></g>
+<g class="l" style="animation-delay:2.15s"><text x="22" y="419.74999999999994"><tspan fill="#39d353">panda@ucu</tspan><tspan fill="#8b949e">:~$ </tspan><tspan class="cur" fill="#39d353">▌</tspan></text></g>
+</svg>
